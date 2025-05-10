@@ -2,4 +2,4 @@
 
 ## Teste o aplicativo
 
-<a href="./releases">Baixe a Ultima versão</a>
+<a href="https://github.com/Viholialves/ReUse2/releases">Baixe a Ultima versão</a>
